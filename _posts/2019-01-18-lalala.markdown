@@ -1,4 +1,7 @@
-# 用github在线加一篇测试
+---
+layout:     post
+title:      "用github在线加一篇测试"
+---
 
 
 ```
