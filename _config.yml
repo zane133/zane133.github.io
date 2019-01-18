@@ -33,7 +33,7 @@ plugins:
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%MM-%dd, %YYYY"
+  date_format: "%m-%d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
