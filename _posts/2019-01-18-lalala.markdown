@@ -3,7 +3,10 @@ layout:     post
 title:      "用github在线加一篇测试"
 ---
 
-
+注意文章头要加上这个 否则不显示中文主题
 ```
-print ("Hello World")
+---
+layout:     post
+title:      "用github在线加一篇测试"
+---
 ```
