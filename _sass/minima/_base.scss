@@ -151,9 +151,12 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #f7f7f7;
 }
-
+pre,
+code {
+  font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
+}
 code {
   padding: 1px 5px;
 }

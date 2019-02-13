@@ -35,6 +35,10 @@ plugins:
 minima:
   date_format: "%m-%d, %Y"
 
+header_pages:
+  - about.md
+  - portfolio.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
