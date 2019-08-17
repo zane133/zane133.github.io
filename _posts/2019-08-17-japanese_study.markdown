@@ -7,7 +7,6 @@ published: true
 Google可以在搜索词的尾部加上 **とは**
 
 
-![谷歌搜索]({{site.baseurl}}/_posts/google_search20190817151902.png)
+![谷歌搜索]({{site.baseurl}}/img/google_search20190817151902.png)
 
 同时推荐一个编辑github博客的工具[prose](prose.io)
-
