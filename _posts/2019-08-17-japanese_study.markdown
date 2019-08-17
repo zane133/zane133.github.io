@@ -1,9 +1,13 @@
 ---
-layout:     post
-title:      "在线搜索 日语在线词典技巧"
+layout: post
+title: 在线搜索 日语在线词典技巧
+published: true
 ---
 
 Google可以在搜索词的尾部加上 **とは**
 
 
-![这里随便写文字](https://github.com/zane133/jekyll/blob/master/assets/TIM%E6%88%AA%E5%9B%BE20190817151902.png)
+![谷歌搜索]({{site.baseurl}}/_posts/google_search20190817151902.png)
+
+同时推荐一个编辑github博客的工具[prose](prose.io)
+
