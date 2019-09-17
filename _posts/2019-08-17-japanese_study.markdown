@@ -18,7 +18,4 @@ Google可以在搜索词的尾部加上 **とは**
 
 ## 比较 (より)
 李さんは森さんより若いです
-
-https://www.bilibili.com/video/av14150839/?p=14
-
-新标日12课
+[新标日12课](https://www.bilibili.com/video/av14150839/?p=14)
