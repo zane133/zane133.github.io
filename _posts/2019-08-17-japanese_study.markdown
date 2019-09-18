@@ -26,5 +26,5 @@ Google可以在搜索词的尾部加上 **とは**
 
 ## 需要花费多少时间 (ぐらい) 
 
-[新标日13课](https://www.bilibili.com/video/av14150839/?p=15)
+[新标日13课](https://www.bilibili.com/video/av14150839/?p=15)14:23
 
