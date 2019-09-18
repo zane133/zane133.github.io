@@ -17,7 +17,7 @@ Google可以在搜索词的尾部加上 **とは**
 海贼王に俺はなる
 
 ## 比较 (より)
-李さんは森さんより若いです[新标日12课](https://www.bilibili.com/video/av14150839/?p=14)
+李さんは森さんより若いです   [新标日12课](https://www.bilibili.com/video/av14150839/?p=14)
 
 这里的 より 是“相比”的意思
 
@@ -26,5 +26,5 @@ Google可以在搜索词的尾部加上 **とは**
 
 ## 需要花费多少时间 (ぐらい) 
 
-[新标日13课](https://www.bilibili.com/video/av14150839/?p=15)14:23
+[新标日13课](https://www.bilibili.com/video/av14150839/?p=15)   14:23
 
