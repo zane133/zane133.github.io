@@ -28,3 +28,6 @@ Google可以在搜索词的尾部加上 **とは**
 
 [新标日13课](https://www.bilibili.com/video/av14150839/?p=15)   14:23
 
+## 什么时候 When (いつ)
+
+[新标日14课](https://www.bilibili.com/video/av14150839/?p=16)   13:02
