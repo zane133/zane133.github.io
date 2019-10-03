@@ -36,4 +36,5 @@ Google可以在搜索词的尾部加上 **とは**
 [新标日15课](https://www.bilibili.com/video/av14150839/?p=17)
 
 ## 并列 (て/ で)
-https://www.bilibili.com/video/av14150839/?p=18
+[新标日16课](https://www.bilibili.com/video/av14150839/?p=18)
+て＋います 还可以表示 动作结束后留下的结果状态
