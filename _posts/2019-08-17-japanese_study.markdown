@@ -163,14 +163,14 @@ Google可以在搜索词的尾部加上 **とは**
 
 ## 时 时机
 [新标日27课](https://www.bilibili.com/video/av14150839/?p=29)  
-する toki时  前项动作未完成  
-した toki时  前项动作已完成  
-看病 护理
-动词+ながら 一边。。一边  同事进行两个动作，其中后面一个动作是主要动作。  
-通  定期往返同一个场所  
-アルバイト 兼职 工作 part-time  
-大变  表示惊讶  不得了了  
-大势 /  たくさん 很多  
-踊り 跳舞  
-割引  打折 优惠
+する toki时  <center>前项动作未完成</center>
+した toki时  <center>前项动作已完成</center>  
+看病        <center>护理</center>
+动词+ながら <center>一边。。一边  同事进行两个动作，其中后面一个动作是主要动作。  </center>
+通  <center>定期往返同一个场所  </center>
+アルバイト <center>兼职 工作 part-time  </center>
+大变  <center>表示惊讶  不得了了  </center>
+大势 /  たくさん <center>很多  </center>
+踊り <center>跳舞  </center>
+割引  <center>打折 优惠</center>
 
