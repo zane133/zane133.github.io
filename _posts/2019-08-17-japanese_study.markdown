@@ -198,3 +198,4 @@ Google可以在搜索词的尾部加上 **とは**
 これは　という　意味 です　　这是。。。的意思  
 という  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;不知道的新信息  
 なさい　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;命令  
+ください　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;命令  
