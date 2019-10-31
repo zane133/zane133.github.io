@@ -191,7 +191,7 @@ Google可以在搜索词的尾部加上 **とは**
 訳します    翻译
 
 ## 命令 禁止
-[新标日29课](https://www.bilibili.com/video/av14150839/?p=31) 
+[新标日29课](https://www.bilibili.com/video/av14150839/?p=31)   
 ろ　e行 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;表示命令  
 します　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;做  
 止めるな &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;禁止  
