@@ -198,4 +198,21 @@ Google可以在搜索词的尾部加上 **とは**
 これは　という　意味 です　　这是。。。的意思  
 という  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;不知道的新信息  
 なさい　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;命令  
-ください　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;请 
+ください　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;请
+
+## 意志形(よう)
+[新标日30课](https://www.bilibili.com/video/av14150839/?p=32)  
+寄　　顺便 靠近  
+パンクします　　撑破 轮胎爆裂  
+寂しい　　寂寞  
+仕方ない　　没办法  
+よう　　动词的意志形 + O  想写 想飞  想去 想来  
+动（意志形）と思います　　　比单纯的意志形更加有礼貌  
+动（意志形）と思っています　　某种意志持续一段时间  
+动（意志形）ようと思っています　　尚未形成的意志  
+预定  安排  
+小句1 ので， 小句2   所以  
+気にいで　　喜欢  
+仕方ないな　　没办法  
+楽しみです　　期盼 盼望  
+でいっばい　　达到饱和状态
