@@ -210,6 +210,7 @@ https://zhidao.baidu.com/question/73346185.html
 止めるな &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;禁止  
 これは　という　意味 です　　这是。。。的意思  
 という  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;不知道的新信息  
+という事が　原来就是这样呀  原因 恍然大悟  
 なさい　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;命令  
 ください　&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;请
 
@@ -397,4 +398,3 @@ must     if     的话
 今　　刚才  
 てもらいます　　委托做某事  
 ではないでしようか　＝　と思います　　这样比较好（委婉）
-
