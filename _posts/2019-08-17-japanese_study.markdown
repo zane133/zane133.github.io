@@ -382,7 +382,7 @@ must     if     的话
 はずが　ありません　根据某种理由做出某种否定的判断
 
 ## 使役
-[新标日43课](https://www.bilibili.com/video/av14150839/?p=45)   
+[新标日43课](https://www.bilibili.com/video/av14150839/?p=45)  
 引っ張ります　　拉  拽  
 浮かびます　　想起 浮现  
 暮らします　 生活  
