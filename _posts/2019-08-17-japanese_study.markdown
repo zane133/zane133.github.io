@@ -400,7 +400,7 @@ must     if     的话
 ではないでしようか　＝　と思います　　这样比较好（委婉）
 
 ## 推测  
-[新标日44课](https://www.bilibili.com/video/av14150839/?p=46) 
+[新标日44课](https://www.bilibili.com/video/av14150839/?p=46)  
 实感  切实感受  
 さ　 程度 度  (状态)  
 大事  重要 宝贵  
