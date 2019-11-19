@@ -415,9 +415,9 @@ must     if     的话
 [新标日45课](https://www.bilibili.com/video/av14150839/?p=47)  
 軽いもの　　清淡的食物/少的食物  
 ![20191119122155.png]({{site.baseurl}}/img/20191119122155.png)
-
+ていく　　
 でいます／きました　　基准  
-持续   &emsp;&emsp;&emsp;   变化  
+持续(after) &emsp;&emsp;   变化(pre)  
 てきました　出现  
 てきた　　
 手軽　　容易的  
@@ -426,4 +426,4 @@ must     if     的话
 なら…………な…ほど  
 てありば…な…ほど  
 にぎやかだ   繁华  
-アクセス  access  连接 访问是否通畅  
+アクセス  access  连接 访问是否通畅
