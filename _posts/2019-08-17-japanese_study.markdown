@@ -456,5 +456,5 @@ must     if     的话
 [新标日48课](https://www.bilibili.com/video/av14150839/?p=50)  
 お　V12 します　　　常用  
 ご　V3   します　   常用  
-
+![20191122124909.png]({{site.baseurl}}/img/20191122124909.png)  
 おります／ております　　自谦
