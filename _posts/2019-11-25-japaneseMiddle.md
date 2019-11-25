@@ -1,7 +1,7 @@
 ---
-published: false
+layout:     post
+title:      "新标日中级"
 ---
-## Japanese Middle
 
 ## 相遇  
 であい　出会い　相遇  
