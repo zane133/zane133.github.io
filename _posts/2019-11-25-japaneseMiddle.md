@@ -31,8 +31,8 @@ published: true
 以上に　　超出基准
 
 ## 名字 (第三课)
-数量
-![微信截图_20191127130528.png](https://i.loli.net/2019/11/27/nDIVTrjx15bZNpm.png)
+数量  
+![微信截图_20191127130528.png](https://i.loli.net/2019/11/27/nDIVTrjx15bZNpm.png)  
 にとって　　从...立场来看  对...来说  
 ～が，～／～けど、～　　铺垫 有时还用于没有任何意义的转折  
 营业 营销  
