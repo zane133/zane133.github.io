@@ -11,3 +11,6 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 
 ## H-Code
 > https://vn-hooking.fandom.com/wiki/H-Code
+
+## krkrz文档
+> http://kirikirikag.sourceforge.net/contents/index.html
