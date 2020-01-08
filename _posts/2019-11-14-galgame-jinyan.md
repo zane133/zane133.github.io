@@ -16,5 +16,3 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 > http://kirikirikag.sourceforge.net/contents/index.html[英文]
 > https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html[中文]
 
-## kagexpress
-> http://www.xdowns.com/soft/38/121/2012/Soft_94422.html
