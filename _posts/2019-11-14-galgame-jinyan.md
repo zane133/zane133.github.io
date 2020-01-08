@@ -13,6 +13,6 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 > https://vn-hooking.fandom.com/wiki/H-Code
 
 ## krkrz文档
-> http://kirikirikag.sourceforge.net/contents/index.html[英文]
-> https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html[中文]
-
+> http://kirikirikag.sourceforge.net/contents/index.html  [英文]
+> https://hydrozoa.felisworks.com/doc/KAG3Doc/contents/index.html  [中文]
+> http://krkrz.github.io/  [官网]
