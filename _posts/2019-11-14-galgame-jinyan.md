@@ -23,3 +23,6 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 
 ## ks脚本教程
 > http://blog.sina.com.cn/s/blog_a1b9d06101010wn4.html
+
+## 流程
+![image.png](https://i.loli.net/2020/01/08/NQJjDxB3lPncoZe.png)
