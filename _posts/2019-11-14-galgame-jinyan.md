@@ -26,3 +26,14 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 
 ## 流程
 ![image.png](https://i.loli.net/2020/01/08/NQJjDxB3lPncoZe.png)
+
+## 关于字符串搜索
+
+- utf-16 > ucs-2
+
+> https://baike.baidu.com/item/UTF-16/9032026?fr=aladdin
+
+
+&emsp;&emsp;UTF-16可看成是UCS-2的父集。在没有辅助平面字符（surrogate code points）前，UTF-16与UCS-2所指的是同一的意思。但当引入辅助平面字符后，就称为UTF-16了。现在若有软件声称自己支持UCS-2编码，那其实是暗指它不能支持在UTF-16中超过2bytes的字集。对于小于0x10000的UCS码，UTF-16编码就等于UCS码。
+
+所以，CE和x64dbg日文搜索的时候，可以用utf-16或者Shift-JIS搜索。
