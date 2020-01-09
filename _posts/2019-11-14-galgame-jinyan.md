@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 游戏安装的经验
+title: 日文游戏安装的经验
 published: true
 ---
 
