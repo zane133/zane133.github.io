@@ -205,6 +205,16 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  color: $title-text-color;
+  
+  &:visited {
+    color: $title-text-color;
+  }
+  
+  &:hover {
+    color: $title-hover-color;
+  }
+  
 }
 
 
