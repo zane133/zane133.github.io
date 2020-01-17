@@ -23,7 +23,9 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 	- lstrlenA 直接用od查找引用，每行都断点，断的地方直接查看eax指向的内容就行了。
    - getExtend32，getGlyOutline(拼的不太对)，可能查不全，只有一行啥的。换api多试试把，单步步进，这个就看经验了，我没找出来只找到一行，提取不完整，也许我太菜😂。
    - 试试其他api，说不准其他api有取巧的地方，能多快好省的完成任务。
-- https://wiki.anime-sharing.com/hgames/index.php?title=AGTH/Tutorial 很详细，弄半天这篇文章才是精华啊，仔细看，不要因为是英文就不看，绝对找h-code的精华
+- **cheat engine找hcode**
+   - ![hwiki](https://wiki.anime-sharing.com/hgames/index.php?title=AGTH/Tutorial)
+   - 很详细，弄半天这篇文章才是精华啊，仔细看，不要因为是英文就不看，绝对找h-code的精华
 
 
 
