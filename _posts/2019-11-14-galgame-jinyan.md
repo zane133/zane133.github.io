@@ -14,6 +14,7 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 
 ## 文本钩子H-code获取思路
 > https://github.com/mireado/ITHVNR/blob/d28a1ae6989f9ebb7a921c3b4b6e97b67e93f21c/vnr/vnrhook/src/engine/engine.cc#L2
+> https://github.com/mireado/ITHVNR/blob/d28a1ae6989f9ebb7a921c3b4b6e97b67e93f21c/vnr/vnrhook/include/const.h  > api
 
 - **字符串内存搜索，硬件访问断点**
 	- 搜索时机很重要，时机不对或者编码不对可能搜不到结果，注意,utf-16 = ucs-2
