@@ -8,6 +8,7 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
 
 ## AGTH文档
 > https://github.com/EnderQIU/agth-cn/blob/master/agth-help-zh-CN.md
+> https://github.com/mireado/interactive-text-hooker/blob/master/wiki/DevGuide.wiki#Examples > ITH
 
 ## H-Code
 > https://vn-hooking.fandom.com/wiki/H-Code
