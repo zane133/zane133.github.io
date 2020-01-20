@@ -29,6 +29,9 @@ mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面�
    - [hwiki](https://wiki.anime-sharing.com/hgames/index.php?title=AGTH/Tutorial)
    - 很详细，弄半天这篇文章才是精华啊，仔细看，不要因为是英文就不看，绝对找h-code的精华
    - 貌似split_data（就是:右边的）这个的作用是分割文本，分割依据是某个值的不同来分割，相同就分为一组，有点像sql语句里的group by
+- **关于字符串分割**
+	- http://tieba.baidu.com/p/6144543648 这个人说的很清楚
+	- 就是vnrhook会检测:8后面的寄存器的值或指向的地址(:8*0) 有没有变化,有的话就新开一个线程，N起到了链接字符的作用
 
 
 
