@@ -15,6 +15,12 @@ Google可以在搜索词的尾部加上 **とは**
 
 同时推荐一个编辑github博客的工具[prose](https://prose.io)
 
+## 输入法快捷键
+
+|功能|快捷键|
+---|---|
+|切换片假名|F7|
+
 ## 情绪 气氛 心情
 机嫌、気分、気持ち  
 https://zhidao.baidu.com/question/73346185.html
