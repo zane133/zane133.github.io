@@ -29,7 +29,15 @@ https://blog.csdn.net/freehyan/article/details/51879554
 
 **命令**
 
-`rake post title="article name"`
+```R
+rake post title="article name"
+```
+
+## 吸色PS卡顿
+
+Win + S 搜索 笔，找到 打开或关闭XXXX
+
+然后 ![打开或关闭。。。](https://i.loli.net/2020/02/04/wBSIaPevHklMN7y.png)
 
 
 
