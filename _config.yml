@@ -38,6 +38,24 @@ minima:
 header_pages:
   - about.md
   - portfolio.md
+  
+repository: zane133/zane133.github.io
+repository_tree: master
+
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: article
+      sharing: true
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: true
+      show_subscribe: true
+      pageview: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
