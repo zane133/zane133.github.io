@@ -213,18 +213,23 @@ pre {
  */
 
 .svg-icon {
-    width: 16px;
-    height: 16px;
+    width: 30px;
+    height: 30px;
     display: inline-block;
-    fill: #{$grey-color};
+    // fill: #{$grey-color};
     padding-right: 5px;
     vertical-align: text-top;
 }
 
 .social-media-list {
-  li + li {
-    padding-top: 5px;
-  }
+  // li + li {
+  //   padding-top: 5px;
+  // }
+
+  // li + li {
+  //   padding-left: 10px;
+  // }
+  display: inline-flex;
 }
 
 
