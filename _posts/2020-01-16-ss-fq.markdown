@@ -14,12 +14,12 @@ title:      "KXSW爬梯子"
 - 添加规则什么的，要在ss里的user-rule.txt里添加，ss会自动更新到pac.txt里，然后在SwitchyOmega更新下就好了。
 
 ## Caddy
-#### 配置证书
+#### **配置证书**
 先再cf建立证书
 然后在caddy配置文件里gzip
 下添加 tls  `xxx.cert xxx.key` 就行了
 
-#### 后台启动caddy1
+#### **后台启动caddy1**
 ```shell
 caddy port -443&
 ```
