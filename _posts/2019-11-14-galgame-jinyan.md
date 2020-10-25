@@ -3,7 +3,15 @@ layout: post
 title: 日文游戏安装的经验
 published: true
 ---
+## AlphaROM Crack
 
+> http://azure.kdays.cn/onekeyunlock/
+
+本程序使用对象为那些喜欢尝鲜日文原版以Visual Arts公司设计的RealLive以及Siglus为引擎的GalGame，效果是解除区域锁定，过DVD校验、过DummyCheck、
+
+本工具理论上支持所有AlphaROM保护的游戏破解、拥有比alsignup更好的适应性，可以当做alsignup的替代品
+
+## 安装技巧
 - mdf 里的data文件不要转成iso，直接用ultraiso打开然后复制里面的data文件就行
 
 ![image.png](https://i.loli.net/2020/04/04/6zsuOhEqZJrp9AP.png)
