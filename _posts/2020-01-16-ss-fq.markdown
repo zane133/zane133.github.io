@@ -24,3 +24,7 @@ title:      "KXSW爬梯子"
 caddy port -443&
 ```
 然后直接退出ssh，就可以后台启动了
+
+## Clash
+https://github.com/Fndroid/clash_for_windows_pkg/issues/1307
+Timeout 的问题，我的是因为dns 打开了 关闭dns就好 原因未知
