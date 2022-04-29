@@ -3,7 +3,20 @@
   <a href="{{ site.baseurl }}/static/xml/rss.xml">RSS订阅</a>
   {%- comment %} 请保留主题来源，么么哒~ {% endcomment %}
   <span>Theme By</span>
+
   <a href="https://github.com/TMaize/tmaize-blog">TMaize</a>
+  <span>
+    {%- if site.repository and site.repository_tree -%}
+
+    <!-- get current path -->
+    {%- assign _article_path = page.path -%}
+    <!-- conbine -->
+    {%- assign _github_path = site.repository | append: '/tree/' | append: site.repository_tree | append: '/' | append:
+    _article_path | replace:'//','/' -%}
+    <a class="edit-on-github" href="https://github.com/{{ _github_path }}">edit
+    </a>
+    {%- endif -%}
+  </span>
 </footer>
 <div id="to-top">
   <span></span>

@@ -7,6 +7,9 @@ keywords: Zane133,Blog,Java,Html,JavaScript
 author: Zane133
 footerText: ''
 
+repository: zane133/zane133.github.io
+repository_tree: master
+
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
 kramdown:
