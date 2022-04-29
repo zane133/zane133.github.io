@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: "Jekyll写博客相关"
 category: 
 tags: []

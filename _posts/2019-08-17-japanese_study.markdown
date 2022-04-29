@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: 在线搜索 日语在线词典技巧
 published: true
 ---

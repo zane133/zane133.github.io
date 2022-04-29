@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: 日文游戏安装的经验
 published: true
 ---

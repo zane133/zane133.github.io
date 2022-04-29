@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: 新标日中级
 published: true
 ---
