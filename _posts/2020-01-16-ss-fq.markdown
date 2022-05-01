@@ -32,3 +32,6 @@ Timeout 的问题，我的是因为dns 打开了 关闭dns就好 原因未知
 ## Daz基础包下不下来的问题
 记得用netsh指定进程KXSW就好了,记得clash的全局模式并不是全局，只是系统代理，要配合其他软件(如netsh)才能KXSW
 - 记得打开 系统代理 √System Proxy
+
+## Netch指定进程失败
+下载最新版
