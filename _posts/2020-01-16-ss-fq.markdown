@@ -35,3 +35,4 @@ Timeout 的问题，我的是因为dns 打开了 关闭dns就好 原因未知
 
 ## Netch指定进程失败
 下载最新版
+https://github.com/netchx/netch/releases
