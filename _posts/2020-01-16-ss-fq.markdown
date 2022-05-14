@@ -36,7 +36,6 @@ Timeout 的问题，我的是因为dns 打开了 关闭dns就好 原因未知
 ## Netch指定进程失败
 1. 下载最新版 https://github.com/netchx/netch/releases
 2. 记得关闭防火墙
-3. 需要配合这个来使用
+3. 直接打开clash的Tun模式就可以了(先点管理，安装服务)
 
- ![image](https://user-images.githubusercontent.com/36726445/168413666-85dcaf80-91cf-4e63-953b-1de2f9aaa1ad.png)
 
