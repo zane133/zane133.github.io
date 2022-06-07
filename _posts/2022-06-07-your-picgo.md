@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+layout: mypost
 ---
 ## PicGo图片压缩
 
